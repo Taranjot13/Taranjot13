@@ -20,6 +20,7 @@
 📌 [Expense Tracker API](https://github.com/Taranjot13/expense-tracker-api)  
 📌 [Linux User Manager](https://github.com/Taranjot13/linux-user-manager)  
 📌 [Smart Task Scheduler](https://github.com/Taranjot13/smart-task-scheduler)  
+📌 [CafeConnect](https://github.com/Taranjot13/CafeConnect)
 
 ---
 
