@@ -6,6 +6,8 @@
 💻 Interested in **Cloud, DevOps, and Scalable Backend Systems**  
 📍 Based in Punjab | 🎓 B.E. CSE @ Chitkara University  
 
+📄 [View My Resume](https://1drv.ms/w/c/8107c622702d9f46/ERZKiJxWD8dDrNtdYiR69TIBy5xN6uClQenCw8CJRvKutQ?e=fRipOE)
+
 ---
 
 ## 🔹 Skills & Tools
@@ -20,7 +22,7 @@
 📌 [Expense Tracker API](https://github.com/Taranjot13/expense-tracker-api)  
 📌 [Linux User Manager](https://github.com/Taranjot13/linux-user-manager)  
 📌 [Smart Task Scheduler](https://github.com/Taranjot13/smart-task-scheduler)  
-📌 [CafeConnect](https://github.com/Taranjot13/CafeConnect)
+📌 [CafeConnect](https://github.com/Taranjot13/CafeConnect)  
 
 ---
 
@@ -34,3 +36,4 @@
 ## 🔗 Connect With Me
 💼 [LinkedIn](https://linkedin.com/in/taranjot13)  
 📂 [GitHub](https://github.com/Taranjot13)  
+📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/ERZKiJxWD8dDrNtdYiR69TIBy5xN6uClQenCw8CJRvKutQ?e=fRipOE)  
