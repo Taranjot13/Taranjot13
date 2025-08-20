@@ -20,7 +20,7 @@
 ---
 
 ## 🔹 Technical Projects
-📌 **[Cloud-Based Web Hosting (AWS)]()**  
+📌 **[Cloud-Based Web Hosting (AWS)](https://github.com/Taranjot13/smart-task-scheduler)**  
 Deployed a Flask app on EC2 with static content on S3, integrated via IAM & AWS CLI.  
 *Tech: AWS EC2, S3, IAM, Flask, Python, Linux*  
 
