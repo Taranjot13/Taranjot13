@@ -19,22 +19,29 @@
 
 ---
 
-## 🔹 Technical Projects
-📌 **[Cloud-Based Web Hosting (AWS)](https://github.com/Taranjot13/smart-task-scheduler)**  
+## 🔹 Technical Projects  
+
+📌 [Cloud-Based Web Hosting (AWS)](https://github.com/Taranjot13/smart-task-scheduler)  
 Deployed a Flask app on EC2 with static content on S3, integrated via IAM & AWS CLI.  
 *Tech: AWS EC2, S3, IAM, Flask, Python, Linux*  
 
-📌 **[Expense Tracker API](https://github.com/Taranjot13/expense-tracker-api)**  
+📌 [Personal Habit Tracker – Spring Boot Web Application](https://github.com/Taranjot13/personal-habit-tracker)  
+A secure habit-tracking web app with user auth, habit creation, progress streaks, and dashboard view.  
+Integrated **Spring Security + MySQL**, and built responsive UI with **Thymeleaf + Bootstrap**.  
+*Tech: Java 17, Spring Boot, Spring Security, JPA/Hibernate, MySQL, Thymeleaf, Bootstrap*  
+
+📌 [Expense Tracker API](https://github.com/Taranjot13/expense-tracker-api)  
 Built a RESTful backend with Node.js & MongoDB, featuring CRUD operations, JWT auth & CSV export.  
 *Tech: Node.js, Express, MongoDB, JWT*  
 
-📌 **[Linux User Manager](https://github.com/Taranjot13/linux-user-manager)**  
+📌 [Linux User Manager](https://github.com/Taranjot13/linux-user-manager)  
 Bash script for user management: add/delete users, password resets, bulk creation & logs.  
 *Tech: Linux, Bash, Shell Scripting*  
 
-📌 **[CafeConnect](https://github.com/Taranjot13/CafeConnect)**  
+📌 [CafeConnect](https://github.com/Taranjot13/CafeConnect)  
 Web-based café management system with menu editing, order tracking, and dark/light mode.  
 *Tech: HTML, CSS, JavaScript*  
+ 
 
 ---
 
