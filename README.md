@@ -26,23 +26,23 @@
 
 ## 📂 Projects
 
-### Cloud-Based Web Hosting using AWS EC2 & S3 (May 2025 – Jul 2025)  
+### Cloud-Based Web Hosting using AWS EC2 & S3  
 Deployed Flask application on AWS EC2 with static content delivery via S3. Automated deployment and access management using IAM roles and AWS CLI.  
 _Technologies:_ AWS EC2, S3, IAM, Flask, Python, Linux  
 
-### Personal Habit Tracker – Spring Boot Web Application (Aug 2025 – Present)  
+### Personal Habit Tracker – Spring Boot Web Application   
 Developed a secure habit-tracking app with user authentication, streak tracking, and dashboard UI built with Thymeleaf and Bootstrap. Data persistence with MySQL using JPA/Hibernate.  
 _Technologies:_ Java 17, Spring Boot, Spring Security, MySQL, Thymeleaf, Bootstrap  
 
-### Expense Tracker API (Dec 2024 – Apr 2025)  
+### Expense Tracker API 
 Built RESTful API backend with Node.js and MongoDB, featuring JWT authentication and CSV export functionality.  
 _Technologies:_ Node.js, Express, MongoDB, JWT  
 
-### Linux User Manager (Jul 2024 – Nov 2024)  
+### Linux User Manager   
 Created Bash scripts automating Linux user management tasks, including bulk user creation, deletions and password resets.  
 _Technologies:_ Linux, Bash, Shell Scripting  
 
-### CafeConnect – Web-based Café Management System (Nov 2023 – Apr 2024)  
+### CafeConnect – Web-based Café Management System    
 A responsive web app for menu editing, order tracking, and dark/light mode theme support.  
 _Technologies:_ HTML, CSS, JavaScript  
 
