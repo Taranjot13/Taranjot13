@@ -51,7 +51,7 @@ _Technologies:_ HTML, CSS, JavaScript
 ## 🎓 Education
 
 **Chitkara University, Punjab**  
-Bachelor of Engineering in Computer Science | CGPA: 8.12 | 2023 – 2027  
+Bachelor of Engineering in Computer Science | CGPA: 8.19 | 2023 – 2027  
 
 **Satluj Public School, Panchkula, Haryana**  
 12th Grade – Non-Medical | 90% | 2022 – 2023  
