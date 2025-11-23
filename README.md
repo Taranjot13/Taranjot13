@@ -6,11 +6,15 @@
 
 ## 🚀 About Me
 
-- Certified AWS Cloud Solutions Architect with practical experience in deploying and automating cloud infrastructure.
-- Skilled in Java Spring Boot, Node.js, Flask backend development.
-- Hands-on experience with AWS EC2, S3, IAM, Docker, Bash scripting, and Linux.
-- Currently pursuing Bachelor's in Computer Science from Chitkara University (CGPA: 8.12).
-- Eager to contribute to building reliable, scalable cloud-native applications and infrastructures.
+-Certified AWS Cloud Solutions Architect with practical experience in deploying and automating cloud infrastructure.
+
+-Proficient in backend development using Java Spring Boot, Node.js, and Flask, complemented by frontend skills in JavaScript, HTML, and CSS.
+
+-Hands-on experience with AWS EC2, S3, IAM, Docker, Bash scripting, and Linux system automation.
+
+-Currently pursuing Bachelor of Engineering in Computer Science (Full-Stack Specialization) at Chitkara University with a CGPA of 8.19.
+
+-Passionate about transitioning into cloud consulting and business analysis roles, leveraging combined technical and business acumen.
 
 ---
 
