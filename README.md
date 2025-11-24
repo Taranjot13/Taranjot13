@@ -80,4 +80,4 @@ Bachelor of Engineering in Computer Science | CGPA: 8.19 | 2023 – 2027
 ## 🔗 Connect With Me
 💼 [LinkedIn](https://linkedin.com/in/taranjot13)  
 📂 [GitHub](https://github.com/Taranjot13)  
-📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/ERwDQbRrZExBg6FnxZYWweABx9P4stCLLTve7vYC0PTWFA?e=DdsrHF)  
+📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/ERwDQbRrZExBg6FnxZYWweABx9P4stCLLTve7vYC0PTWFA?e=md7oLc)  
