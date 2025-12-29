@@ -63,24 +63,6 @@ Bachelor of Engineering in Computer Science | CGPA: 8.19 | 2023 – 2027
 
 ---
 
-📂 Featured Projects (Live on AWS)
-- **Expense Tracker API** | Node.js/Express/MongoDB/Redis/JWT/Docker
-  ![Stars](https://img.shields.io/github/stars/Taranjot13/ExpenseTrackerAPI) 
-  [Live Demo](your-ngrok-url) | [Repo](https://github.com/Taranjot13/ExpenseTrackerAPI)
-  *Scalable REST API with real-time analytics, 18 commits Dec 2025*
-  
-- **Smart Task Scheduler** | AWS EC2/S3/IAM/Flask/Python
-  ![Stars](https://img.shields.io/github/stars/Taranjot13/smart-task-scheduler)
-  [Repo](https://github.com/Taranjot13/smart-task-scheduler)
-  *Cloud-hosted task app with automated IAM deployments*
-  
-- **Habit Tracker** | Spring Boot/MySQL/Security/Thymeleaf
-  ![Stars](https://img.shields.io/github/stars/Taranjot13/personal-habit-tracker)
-  [Repo](https://github.com/Taranjot13/personal-habit-tracker)
-  *Secure web app with user auth & progress dashboard*
-
----
-
 ## 🏆 Certifications
 
 - AWS Cloud Solutions Architect Professional Certificate – Coursera (Apr 2025)  
