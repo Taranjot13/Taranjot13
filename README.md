@@ -55,7 +55,7 @@ _Technologies:_ HTML, CSS, JavaScript
 ## 🎓 Education
 
 **Chitkara University, Punjab**  
-Bachelor of Engineering in Computer Science | CGPA: 8.19 | 2023 – 2027  
+Bachelor of Engineering in Computer Science | 2023 – 2027  
 
 **Satluj Public School, Panchkula, Haryana**  
 12th Grade – Non-Medical | 90% | 2022 – 2023  
@@ -63,22 +63,9 @@ Bachelor of Engineering in Computer Science | CGPA: 8.19 | 2023 – 2027
 
 ---
 
-## 🏆 Certifications
 
-- AWS Cloud Solutions Architect Professional Certificate – Coursera (Apr 2025)  
-- AWS Educate – Introduction to Cloud 101 (Jul 2025)  
-- AWS Fundamentals Specialization – Coursera (Mar 2025)  
-- Networking Essentials – Cisco Networking Academy (Jan 2025)  
-- Junior Cybersecurity Analyst Career Path – Cisco (Jan 2025)  
-- Python in Practice – Chitkara University (Dec 2023)  
-- Basics of JavaScript Programming – Open Weaver (Jul 2023)  
-
----
-
----
 
 ## 🔗 Connect With Me
 💼 [LinkedIn](https://linkedin.com/in/taranjot13)  
 📂 [GitHub](https://github.com/Taranjot13)  
-📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/ERwDQbRrZExBg6FnxZYWweABx9P4stCLLTve7vYC0PTWFA?e=md7oLc)  
-Open to Cloud Consulting Internships
+📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/IQAWSoicVg_HQ6zbXWIkevUyAZ6eGqFZXLkkFz5PzVT9_PY?e=cCvdmp) 
