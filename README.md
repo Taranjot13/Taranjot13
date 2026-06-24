@@ -68,4 +68,4 @@ Bachelor of Engineering in Computer Science | 2023 – 2027
 ## 🔗 Connect With Me
 💼 [LinkedIn](https://linkedin.com/in/taranjot13)  
 📂 [GitHub](https://github.com/Taranjot13)  
-📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/IQAWSoicVg_HQ6zbXWIkevUyAZ6eGqFZXLkkFz5PzVT9_PY?e=cCvdmp) 
+📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/IQAVLaxJpPzTT4Y3tTKH3VoAAbn1p4tsJW9o-T0I1k2SyVE?e=kp7P99) 
