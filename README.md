@@ -1,71 +1,128 @@
-# Taranjot Singh 👋
+# Hi, I'm Taranjot Singh 👋
 
-**Cloud & DevOps Engineer** skilled in AWS, Docker, Linux automation, and backend development. Passionate about building scalable, secure, and cost-efficient cloud solutions.
+### Aspiring Cloud & Database Engineer | AWS | Linux | SQL | Backend Development
 
----
+I'm a Computer Science and Engineering undergraduate at Chitkara University interested in building reliable cloud infrastructure, database-driven applications and automated systems.
+
+I enjoy working with Linux environments, AWS services, relational databases and backend technologies. My current focus is developing stronger skills in cloud infrastructure, database performance optimization and automation.
 
 ## 🚀 About Me
 
--Certified AWS Cloud Solutions Architect with practical experience in deploying and automating cloud infrastructure.
+- 🎓 Pursuing a Bachelor of Engineering in Computer Science & Engineering at Chitkara University.
+- ☁️ Hands-on experience with AWS cloud services and infrastructure.
+- 🐧 Strong foundation in Linux administration and troubleshooting.
+- 🗄️ Practical experience with SQL, PostgreSQL, MySQL and Supabase.
+- ⚙️ Interested in infrastructure automation, cloud operations and database performance.
+- 💻 Familiar with Java, Python, Node.js and backend API development.
+- 📊 Engineering Intern at TC Global Punjab Pvt. Ltd., where I worked with structured business data and Supabase database analysis.
 
--Proficient in backend development using Java Spring Boot, Node.js, and Flask, complemented by frontend skills in JavaScript, HTML, and CSS.
+## 🛠️ Technical Skills
 
--Hands-on experience with AWS EC2, S3, IAM, Docker, Bash scripting, and Linux system automation.
+### Cloud & Infrastructure
+- Amazon Web Services: EC2, S3, RDS, IAM, VPC, Load Balancing, Auto Scaling, CloudWatch, Lambda, Route 53
+- AWS CLI
+- Linux Administration
+- Cloud Infrastructure Management
 
--Currently pursuing Bachelor of Engineering in Computer Science (Full-Stack Specialization) at Chitkara University with a CGPA of 8.19.
+### Databases & SQL
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Supabase
+- SQL Queries, Joins and Subqueries
+- Database Indexing
+- EXPLAIN and EXPLAIN ANALYZE
+- Transactions and Locking
+- Database Performance Optimization
 
--Passionate about transitioning into cloud consulting and business analysis roles, leveraging combined technical and business acumen.
+### Programming & Backend
+- Java
+- Python
+- JavaScript
+- Node.js
+- Express.js
+- Flask
+- REST APIs
+- JWT Authentication
 
----
+### DevOps & Tools
+- Docker (Foundational)
+- Git and GitHub
+- Postman
+- Bash and Linux Shell
+- CI/CD Fundamentals
 
-## 🛠️ Skills
+## 📂 Featured Projects
 
-- **Cloud & DevOps:** AWS (EC2, S3, IAM, CLI), Docker, Bash, Linux  
-- **Backend:** Java (Spring Boot, Spring Security, JPA/Hibernate), Node.js, Flask, REST APIs  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Scripting:** Git, GitHub, Python (Basics), Shell Scripting  
+### 1. Expense Tracker API
+A backend application for expense management, authentication and financial analytics.
 
----
+**Technologies:** Node.js, Express.js, MongoDB, PostgreSQL, Redis, Docker, JWT
 
-## 📂 Projects
+[View Repository](https://github.com/Taranjot13/ExpenseTrackerAPI)
 
-### Cloud-Based Web Hosting using AWS EC2 & S3  
-Deployed Flask application on AWS EC2 with static content delivery via S3. Automated deployment and access management using IAM roles and AWS CLI.  
-_Technologies:_ AWS EC2, S3, IAM, Flask, Python, Linux  
+### 2. Smart Task Scheduler
+A task management application built with Flask APIs and AWS S3 integration for cloud-based file storage.
 
-### Personal Habit Tracker – Spring Boot Web Application   
-Developed a secure habit-tracking app with user authentication, streak tracking, and dashboard UI built with Thymeleaf and Bootstrap. Data persistence with MySQL using JPA/Hibernate.  
-_Technologies:_ Java 17, Spring Boot, Spring Security, MySQL, Thymeleaf, Bootstrap  
+**Technologies:** Python, Flask, AWS S3, Linux, JavaScript
 
-### Expense Tracker API 
-Built RESTful API backend with Node.js and MongoDB, featuring JWT authentication and CSV export functionality.  
-_Technologies:_ Node.js, Express, MongoDB, JWT  
+[View Repository](https://github.com/Taranjot13/smart-task-scheduler)
 
-### Linux User Manager   
-Created Bash scripts automating Linux user management tasks, including bulk user creation, deletions and password resets.  
-_Technologies:_ Linux, Bash, Shell Scripting  
+### 3. Personal Habit Tracker
+A Spring Boot web application for habit tracking, authentication and progress management.
 
-### CafeConnect – Web-based Café Management System    
-A responsive web app for menu editing, order tracking, and dark/light mode theme support.  
-_Technologies:_ HTML, CSS, JavaScript  
+**Technologies:** Java, Spring Boot, Spring Security, MySQL, Thymeleaf
 
----
+[View Repository](https://github.com/Taranjot13/personal-habit-tracker)
+
+### 4. Linux User Manager
+A Bash scripting project that automates Linux user management tasks, including user creation, deletion and password management.
+
+**Technologies:** Linux, Bash, Shell Scripting
+
+[View Repository](https://github.com/Taranjot13/linux-user-manager)
+
+### 5. CafeConnect
+A responsive web-based café management application with menu editing, order tracking and theme switching.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View Repository](https://github.com/Taranjot13/CafeConnect)
 
 ## 🎓 Education
 
-**Chitkara University, Punjab**  
-Bachelor of Engineering in Computer Science | 2023 – 2027  
+**Chitkara University, Punjab, India**
 
-**Satluj Public School, Panchkula, Haryana**  
-12th Grade – Non-Medical | 90% | 2022 – 2023  
-10th Grade | 84% | 2020 – 2021  
+Bachelor of Engineering in Computer Science & Engineering  
+2023 – 2027 | CGPA: 8.21/10
 
----
+**Satluj Public School, Panchkula**
 
+- Class XII – Non-Medical: 90%
+- Class X: 84%
 
+## 📜 Certifications
 
-## 🔗 Connect With Me
-💼 [LinkedIn](https://linkedin.com/in/taranjot13)  
-📂 [GitHub](https://github.com/Taranjot13)  
-📄 [Resume](https://1drv.ms/w/c/8107c622702d9f46/IQAVLaxJpPzTT4Y3tTKH3VoAAbn1p4tsJW9o-T0I1k2SyVE?e=kp7P99) 
+- AWS Cloud Solutions Architect Professional Certificate
+- AWS Fundamentals Specialization
+- Nutanix Certified Associate 6
+- Cloud Data Engineering – Duke University
+- Cloud Virtualization, Containers and APIs – Duke University
+- Cloud Computing Foundations – Duke University
+- Introduction to Docker & Kubernetes – NASSCOM
+- Generative AI with Large Language Models – DeepLearning.AI & AWS
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taranjot13&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taranjot13&layout=compact&theme=default)
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/taranjot13/)
+- 💻 [GitHub](https://github.com/Taranjot13)
+- 📧 65taranjot@gmail.com
+
+*Interested in cloud infrastructure, database engineering, automation and building practical technology solutions.*
